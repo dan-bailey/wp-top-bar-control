@@ -1,2 +1,2 @@
 # wp-top-bar-control
-Adds the meta theme-color to a WP site and changes the WP admin bar to match.
+Adds the meta theme-color to a WP site and changes the WP admin bar to match.  This was a quick-and-dirty piece of code to enable modifications to my personal site, and I'm just tossing it out there for anyone who needs something similar.
